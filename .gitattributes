@@ -1,0 +1,3 @@
+*.pdf binary
+*.csv -text
+*.ipynb -text
