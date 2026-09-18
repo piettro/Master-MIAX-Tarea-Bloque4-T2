@@ -138,9 +138,3 @@ See `outputs/report.md` after a run for the complete, data-driven report.
 ## Architecture
 
 See [docs/architecture.md](docs/architecture.md) for diagrams.
-
-## References
-
-- Professor's solution: `professor_solution/`
-- Assignment materials: `materials/`
-- Original submission (Spanish notebook): `notebooks/credit_xai_original_submission.ipynb`
